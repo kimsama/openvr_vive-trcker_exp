@@ -58,3 +58,5 @@ Whenver a device is connected (aka. turnning on its power), `VREvent_TrackedDevi
 >I'd strongly encourage seated games to use the seated universe rather than standing universe.
 
 The original post can be found on [here](https://steamcommunity.com/app/358720/discussions/0/487877107142761642/)
+
+* [Identify multiple vive trackers through openvr API](https://steamcommunity.com/app/250820/discussions/0/1318835718950502792/)
