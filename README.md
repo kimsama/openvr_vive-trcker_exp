@@ -9,7 +9,6 @@ OpenVR-Tracking-Example](https://github.com/osudrl/OpenVR-Tracking-Example) but 
 * -z is forward, -z is in front of you and +z is behind you
 * distance unit is meter
 
-
 ![OpenVR Coordinate System](./openvr_coordinate_system.png)
 
 ## Vive Tracker Axis Direction
@@ -59,4 +58,9 @@ Whenver a device is connected (aka. turnning on its power), `VREvent_TrackedDevi
 
 The original post can be found on [here](https://steamcommunity.com/app/358720/discussions/0/487877107142761642/)
 
+## Knowlege Base
 * [Identify multiple vive trackers through openvr API](https://steamcommunity.com/app/250820/discussions/0/1318835718950502792/)
+* [Recent Vive Tracker Changes](https://steamcommunity.com/games/250820/announcements/detail/1697186829260359619)
+* [GETTING STARTED ON THE NEWSTEAMVR INPUT SYSTEM WITH UNREAL ENGINE 4.21](https://medium.com/@runeberg/getting-started-on-the-new-steamvr-input-system-with-unreal-engine-4-21-7856a02f4b38#3e56)
+* [Getting started with the HTC Vive Tracker (Pose + Input via Pogo pins) in Unreal Engine 4.24](https://forum.vive.com/topic/8133-getting-started-with-the-htc-vive-tracker-pose-input-via-pogo-pins-in-unreal-engine-424/)
+* [seated/standing room setup](https://steamcommunity.com/app/358720/discussions/0/487877107142761642/)
