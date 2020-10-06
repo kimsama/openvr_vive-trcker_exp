@@ -16,7 +16,9 @@ OpenVR-Tracking-Example](https://github.com/osudrl/OpenVR-Tracking-Example) but 
 ![Vive Tracker Axis Direction](./tracker-axis.png)
 
 **NOTE**: The orientation depends on the role assigned to the trakcer device. Please, [see this page](https://forum.vive.com/topic/7785-htc-vive-tracker-switches-orientation/).
->You were right, the orientation depends on the assigned roles. I checked the orientations of different roles. All roles, except the "hold in hand" role have the same orientation. Furthermore, the "hold in hand" role seems to switch its orientation from time to time... 
+>*You were right, the orientation depends on the assigned roles. I checked the orientations of different roles. All roles, except the "hold in hand" role have the same orientation. Furthermore, the "hold in hand" role seems to switch its orientation from time to time...*
+
+![Vive Tracker Axis Direction](./tracker_axis_by_role.png)
 
 ## Action Binding
 
