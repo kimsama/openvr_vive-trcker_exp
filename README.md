@@ -20,6 +20,8 @@ OpenVR-Tracking-Example](https://github.com/osudrl/OpenVR-Tracking-Example) but 
 
 ![Vive Tracker Axis Direction](./tracker_axis_by_role.png)
 
+And see also [this issue](https://github.com/ValveSoftware/openvr/issues/1328) opened in openvr repository. It says that the role setting "HELD IN HAND : ANY HAND" and "DISABLED" have a diffrent orientation.  
+
 ## Action Binding
 
  * [Getting started on the new steamvr input system with Unreal Engine 4.21](https://medium.com/@runeberg/getting-started-on-the-new-steamvr-input-system-with-unreal-engine-4-21-7856a02f4b38)
