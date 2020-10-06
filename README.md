@@ -37,7 +37,7 @@ printf("Serial Number = %s \n", serialNumber);
 ```
 would output like this:
 ```
-Serial Number = LHR-0DC0F431
+Serial Number = LHR-0DC0F4XX
 ```
 
 ## SteamVR Announcement: [Recent Vive Tracker Changes](https://steamcommunity.com/games/250820/announcements/detail/1697186829260359619)
