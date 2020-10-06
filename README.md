@@ -15,6 +15,9 @@ OpenVR-Tracking-Example](https://github.com/osudrl/OpenVR-Tracking-Example) but 
 
 ![Vive Tracker Axis Direction](./tracker-axis.png)
 
+**NOTE**: The orientation depends on the role assigned to the trakcer device. Please, [see this page](https://forum.vive.com/topic/7785-htc-vive-tracker-switches-orientation/).
+>You were right, the orientation depends on the assigned roles. I checked the orientations of different roles. All roles, except the "hold in hand" role have the same orientation. Furthermore, the "hold in hand" role seems to switch its orientation from time to time... 
+
 ## Action Binding
 
  * [Getting started on the new steamvr input system with Unreal Engine 4.21](https://medium.com/@runeberg/getting-started-on-the-new-steamvr-input-system-with-unreal-engine-4-21-7856a02f4b38)
